@@ -16,7 +16,7 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
   - Imágenes
   - Aumentación de datos
  
- 2. [Taller 3 - Web Scraping](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%203%20NLP%20(1).ipynb):
+2. [Taller 3 - Web Scraping](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%203%20NLP%20(1).ipynb):
   - Web Scraping
   - Herramientas generales de limpieza de texto:
     - ASCII, Unicode
@@ -36,7 +36,7 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
     - Bag of Words
     - Bag of N-Grams
   
-  4. [Taller 5 - TF-IDF](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%205%20NLP.ipynb):
+4. [Taller 5 - TF-IDF](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%205%20NLP.ipynb):
   - Métodos de vectorización
     - TF-IDF
   - Medidas de similitud
