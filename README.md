@@ -75,7 +75,7 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
     - Pre-procesamiento para Twitter
     - Visualizaciones usando Plotly
 
-10. [Taller 12 - Nube de Palabras]: 
+10. [Taller 12 - Nube de Palabras](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/taller%2012%20-%20Sergio%20Siabatto.ipynb): 
     - Análisis de Sentimiento
     - Etiquetados vs No etiquetados
     - Limitaciones 
