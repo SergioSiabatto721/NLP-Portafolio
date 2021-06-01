@@ -17,29 +17,29 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
   - Aumentación de datos
  
 2. [Taller 3 - Web Scraping](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%203%20NLP%20(1).ipynb):
-  - Web Scraping
-  - Herramientas generales de limpieza de texto:
+    - Web Scraping
+    - Herramientas generales de limpieza de texto:
       - ASCII, Unicode
       - RegEx
       - Otros métodos útiles en Python
       - Traducción
 
 3. [Taller 4 - Feature Engineering](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%204%20NLP.ipynb):
-  - Herramientas específicas de pre-procesamiento de texto en NLP
+    - Herramientas específicas de pre-procesamiento de texto en NLP
       - Palabras vacías
       - Tokenización
       - Stemming
       - Lematización
       - Etiquetado gramatical
-  - Métodos de vectorización
+    - Métodos de vectorización
       - One-Hot Encoding
       - Bag of Words
       - Bag of N-Grams
   
 4. [Taller 5 - TF-IDF](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%205%20NLP.ipynb):
-  - Métodos de vectorización
+    - Métodos de vectorización
       - TF-IDF
-  - Medidas de similitud
+    - Medidas de similitud
       - Distancia Euclidiana
       - Distancia del coseno
       - Distancia de Jaccard
