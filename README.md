@@ -24,6 +24,27 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
     - Otros métodos útiles en Python
     - Traducción
 
+3. [Taller 4 - Feature Engineering](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%204%20NLP.ipynb):
+  - Herramientas específicas de pre-procesamiento de texto en NLP
+    - Palabras vacías
+    - Tokenización
+    - Stemming
+    - Lematización
+    - Etiquetado gramatical
+  - Métodos de vectorización
+    - One-Hot Encoding
+    - Bag of Words
+    - Bag of N-Grams
+  
+  4. [Taller 5 - TF-IDF](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%205%20NLP.ipynb):
+  - Métodos de vectorización
+    - TF-IDF
+  - Medidas de similitud
+    - Distancia Euclidiana
+    - Distancia del coseno
+    - Distancia de Jaccard
+    - Distancia de Levenshtein
+  
 
 
 You can use the [editor on GitHub](https://github.com/SergioSiabatto721/NLP-Portafolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
