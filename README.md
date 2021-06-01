@@ -3,7 +3,7 @@
 ![meme](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media)
 
 Hola a todos! 
-Bienvenidos a 
+Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural Language Processing para el programa de especialización en Analítica Estratégica de Datos de la Fundación Universitaria Konrad Lorenz en Bogotá - Colombia
 
 
 
