@@ -1,6 +1,6 @@
 ## Portafolio Natural Lenguage Processing
 
-![meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fgeneral%2F123154&psig=AOvVaw22_oTPG2hqNDcEE5zjUKwN&ust=1622595553763000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICXvNKd9fACFQAAAAAdAAAAABAJ)
+![meme](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media)
 
 Hola a todos! 
 Bienvenidos a 
