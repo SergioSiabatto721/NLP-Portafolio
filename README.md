@@ -44,41 +44,47 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
       - Distancia del coseno
       - Distancia de Jaccard
       - Distancia de Levenshtein
+
+5. [Taller 7 - Clasificación de textos](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/taller_7_Sergio_Siabato.ipynb):
+    - Modelos de clasificación para NLP
+      - Regresión logística
+      - Bayesiano ingenuo (Naive Bayes)
+      - Máquinas de vectores de soporte (SVM)
+      - Árboles de decisión
+
+6. [Taller 8 - K-Means](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller_8_Sergio_Siabato.ipynb):
+    - Repaso de clasificación de textos
+    - Agrupación de textos con K-Means
   
+7. [Taller 9 - LDA](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller_9_Sergio_Siabato.ipynb):
+    - Panorama del Modelado de Temas
+    - LDA: Latent Dirichlet Allocation
 
+8. [Taller 10 - Nube de palabras](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%2010%20-%20Sergio%20Siabato.ipynb):
+    - Importancia de hacer visualizaciones
+    - Herramientas disponibles para hacer visualizaciones
+    - Mejores prácticas
+    - Presentaciones en Jupyter Notebook
+    - Nube de palabras en Python
+    - Tableau: Nube de palabras, mapa de árbol, mapa y Tableau Public
 
-You can use the [editor on GitHub](https://github.com/SergioSiabatto721/NLP-Portafolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+9. [Taller 11 - Twitter](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%2011%20-%20Sergio%20Siabato.ipynb):
+    - NLP y Redes Sociales
+    - La API de Twitter
+    - Scraping Twitter
+    - Pre-procesamiento para Twitter
+    - Visualizaciones usando Plotly
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+10. [Taller 12 - Nube de Palabras]: 
+    - Análisis de Sentimiento
+    - Etiquetados vs No etiquetados
+    - Limitaciones 
+    - Librerias de Python:
+        - VADER
+        - TextBlob
+        - Flair
 
-### Markdown
+¿Me sigue o no me sigue todavía? ... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Prueba
-## Prueba 
-### Prueba
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SergioSiabatto721/NLP-Portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - [LinkedIn](www.linkedin.com/in/sergio-siabatto)
+    
