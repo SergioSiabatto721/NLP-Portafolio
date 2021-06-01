@@ -9,20 +9,20 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
 ## Proyectos: 
 
 1. [Taller 2 - Adquisición de textos](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%202%20NLP.ipynb): 
-  - Datos abiertos
-  - Archivos más comunes: .csv, .txt, .json, .zip
-  - Archivos Office: Word, Excel, Google Sheets
-  - PDFs
-  - Imágenes
-  - Aumentación de datos
+    - Datos abiertos
+    - Archivos más comunes: .csv, .txt, .json, .zip
+    - Archivos Office: Word, Excel, Google Sheets
+    - PDFs
+    - Imágenes
+    - Aumentación de datos
  
 2. [Taller 3 - Web Scraping](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%203%20NLP%20(1).ipynb):
-  - Web Scraping
-  - Herramientas generales de limpieza de texto:
-    - ASCII, Unicode
-    - RegEx
-    - Otros métodos útiles en Python
-    - Traducción
+    - Web Scraping
+    - Herramientas generales de limpieza de texto:
+      - ASCII, Unicode
+      - RegEx
+      - Otros métodos útiles en Python
+      - Traducción
 
 3. [Taller 4 - Feature Engineering](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%204%20NLP.ipynb):
     - Herramientas específicas de pre-procesamiento de texto en NLP
