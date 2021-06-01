@@ -3,7 +3,18 @@
 ![meme](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media)
 
 Hola a todos! 
+
 Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural Language Processing para el programa de especialización en Analítica Estratégica de Datos de la Fundación Universitaria Konrad Lorenz en Bogotá - Colombia
+
+## Proyectos: 
+
+1. [Taller 2 - Adquisición de textos](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%202%20NLP.ipynb): 
+  - Datos abiertos
+  - Archivos más comunes: .csv, .txt, .json, .zip
+  - Archivos Office: Word, Excel, Google Sheets
+  - PDFs
+  - Imágenes
+  - Aumentación de datos
 
 
 
