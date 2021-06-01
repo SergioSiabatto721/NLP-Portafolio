@@ -15,6 +15,14 @@ Bienvenidos a mi portafolio de proyectos universitarios de la materia Natural La
   - PDFs
   - Imágenes
   - Aumentación de datos
+ 
+ 2. [Taller 3 - Web Scraping](https://github.com/SergioSiabatto721/NLP-Portafolio/blob/main/Taller%203%20NLP%20(1).ipynb):
+  - Web Scraping
+  - Herramientas generales de limpieza de texto:
+    - ASCII, Unicode
+    - RegEx
+    - Otros métodos útiles en Python
+    - Traducción
 
 
 
